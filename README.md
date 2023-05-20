@@ -2,7 +2,7 @@ first commit.
 
 second commit.
 
-third commit non conflict.
+third commit. Conflict.
 
 fourth commit.
 
